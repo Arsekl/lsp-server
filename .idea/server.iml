@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/temp" />
+      <excludeFolder url="file://$MODULE_DIR$/.tmp" />
+      <excludeFolder url="file://$MODULE_DIR$/tmp" />
+      <excludeFolder url="file://$MODULE_DIR$/jdt-language-server/data/.metadata/.plugins/org.eclipse.core.resources/.projects/jdt.ls-java-project/org.eclipse.jdt.core" />
+      <excludeFolder url="file://$MODULE_DIR$/jdt-language-server/data/.metadata/.plugins/org.eclipse.buildship.core" />
+      <excludeFolder url="file://$MODULE_DIR$/jdt-language-server/data/.metadata/.plugins/org.eclipse.debug.core" />
+      <excludeFolder url="file://$MODULE_DIR$/jdt-language-server/data/.metadata/.plugins/org.eclipse.jdt.ls.core" />
+      <excludeFolder url="file://$MODULE_DIR$/jdt-language-server/data/jdt.ls-java-project/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/jdt-language-server/data/jdt.ls-java-project/src" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
